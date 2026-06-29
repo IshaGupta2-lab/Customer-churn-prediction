@@ -10,7 +10,7 @@ The project uses a classification model trained on customer information and prov
 
 Deployed using Streamlit Cloud:
 
-
+🔗 https://customer-churn-prediction-2lrmhcnn8mpwkszvady5.streamlit.app/
 
 
 ---
