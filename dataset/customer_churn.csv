@@ -1,0 +1,7 @@
+age,tenure,monthly_charges,total_charges,internet_service,contract,churn
+25,1,70,840,1,0,1
+45,5,50,3000,1,1,0
+35,2,80,1920,1,0,1
+50,10,40,4800,0,1,0
+30,3,90,3240,1,0,1
+60,8,35,3360,0,1,0
